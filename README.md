@@ -7,7 +7,7 @@ Use create-react-app to produce a web application.
 
 2. Include a "Get Users" button in the navigation bar that calls an API to retrieve user information.
 
-Use this link: https://reqres.in/api/users?page=1 3. for data retrieval 
+3. Use this link: https://reqres.in/api/users?page=1 for data retrieval 
 
 4. While the API is retrieving the data, display a loader. 
 
